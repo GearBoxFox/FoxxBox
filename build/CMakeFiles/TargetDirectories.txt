@@ -1,0 +1,3 @@
+/home/rowanfoxx/Documents/Github/FoxxBox/build/CMakeFiles/foxxbox.dir
+/home/rowanfoxx/Documents/Github/FoxxBox/build/CMakeFiles/edit_cache.dir
+/home/rowanfoxx/Documents/Github/FoxxBox/build/CMakeFiles/rebuild_cache.dir

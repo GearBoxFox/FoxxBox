@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/foxxbox.dir/link.d CMakeFiles/foxxbox.dir/src/main.cpp.o -o foxxbox  /usr/lib/libdpp.so
